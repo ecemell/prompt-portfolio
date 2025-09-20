@@ -27,3 +27,4 @@ Rekabet düzeyini "Düşük", "Orta", "Yüksek" olarak belirt.
 | Spor odaklı akıllı saat   | 5.800       | Düşük          |
 | Akıllı saat özellikleri   | 4.500       | Yüksek         |
 
+
